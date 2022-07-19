@@ -1,4 +1,4 @@
-hello
+👋 Hello <br>
 Check out my small projects.
 
 [JS Quiz](https://js-quiz-57869.web.app/) <br>
