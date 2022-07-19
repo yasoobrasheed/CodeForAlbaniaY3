@@ -1,5 +1,5 @@
 hello
 Check out my small projects.
 
-js-quiz-57869.web.app/
-earthday-count.firebaseapp.com/
+[JS Quiz](js-quiz-57869.web.app/)
+[Countdown](earthday-count.firebaseapp.com/)
